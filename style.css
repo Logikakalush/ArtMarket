@@ -42,3 +42,7 @@ article {
    font-size: 30px;
     text-decoration:none;
 }
+p img {
+  width: 600px;
+  margin: 20px;
+}
